@@ -1,0 +1,6 @@
+https://github.com/cse-441-2019/Carnage/wiki/Syllabus
+https://github.com/Unity-Technologies/EntityComponentSystemSamples
+http://www.dataorienteddesign.com/dodbook/
+https://cncnet.org/tiberian-sun
+https://www.youtube.com/watch?v=S-VAL7Epn3o
+https://gametorrahod.com/gameobject-conversion-ecosystem-code-tour/
